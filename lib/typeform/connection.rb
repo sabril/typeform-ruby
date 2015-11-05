@@ -1,6 +1,6 @@
 module Typeform
   class Connection
-    BASE_URI = "https://api.typeform.io"
+    BASE_URI = "https://api.typeform.com"
     TYPEFORM_API_VERSION = "v0.4"
 
     def initialize(api_key)
