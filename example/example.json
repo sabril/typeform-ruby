@@ -13,5 +13,6 @@
         }
       ]
     }
-  ]
+  ],
+  "webhook_submit_url": "http://promoter.sabril.ultrahook.com"
 }

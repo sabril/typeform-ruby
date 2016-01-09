@@ -27,7 +27,7 @@ field1.choices = [choice1, choice2]
 form = Typeform::Form.new
 form.title = "title"
 form.fields = [field1]
-form.webhook_submit_url = "http://webhook_submit_url.com"
+form.webhook_submit_url = "http://promoter.sabril.ultrahook.com"
 
 pp form.as_json
 
